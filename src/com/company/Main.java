@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
 
-
+//Визначити ті рядки, довжина яких менша середньої. 
 
         public static void main(String[] args) throws InputMismatchException {
 
